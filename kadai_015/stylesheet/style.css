@@ -193,15 +193,6 @@ p {
   font-family: 'Lora', serif;
 }
 
-/* ----------------------------------------------- シェフ */
-/* aboutクラスのあとに"私たちについて"の文字を追加  */
-.chef::after {
-  content: "シェフ";
-}
-
-.chef_us_bg {
-  background-color: #fdf5e6;
-}
 
 /* ----------------------------------------------- レビュー */
 /* 背景画像を設定 */
@@ -306,7 +297,7 @@ p {
 }
 
 /* restaurant_info直下の子要素imgタグ全てに適用される */
-.restaurant_info　img {
+.restaurant_info img {
   width: 20px;
   height: 20px;
   margin-right: 10px;

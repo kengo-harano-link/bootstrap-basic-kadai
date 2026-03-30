@@ -297,7 +297,7 @@ p {
 }
 
 /* restaurant_info直下の子要素imgタグ全てに適用される */
-.restaurant_info　img {
+.restaurant_info img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
